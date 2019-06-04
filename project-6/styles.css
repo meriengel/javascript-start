@@ -1,0 +1,27 @@
+
+body{
+    background: ivory;
+}
+
+.masthead{
+    background:goldenrod;
+    color: ivory;
+    font-weight: bold;
+}
+
+.masthead a{
+    color:green;
+    text-decoration: none;
+}
+
+.purple{
+    color:purple;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.green{
+    color:green;
+    font-size: 2em;
+    font-weight: bold;
+}
