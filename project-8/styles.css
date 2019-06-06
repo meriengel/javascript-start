@@ -1,0 +1,41 @@
+body{
+    background: black;
+}
+
+header{
+    width: 80%;
+    margin: 10px auto;
+    background:darkgray;
+    border: 3px solid gold;
+    text-align: center;
+    font-size: 2em;
+}
+
+main{
+    width: 80%;
+    margin: 10px auto;
+    background:darkgray;
+    border: 3px solid gold;
+}
+
+.thumb{
+    width: 20%;
+    margin: 2.25%;
+}
+
+.main-image{
+    width: 100%;
+}
+#large{
+    width: 85%;
+    margin: 10px auto;
+}
+.thumbnails{
+    width : 80%;
+    margin: 10px auto;
+}
+#title{
+    text-align: center;
+    font-size: 1.5em;
+    font-weight:bold;
+}
